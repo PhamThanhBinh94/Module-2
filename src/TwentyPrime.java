@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class TwentyPrime {
-//    private static
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập n = ");
